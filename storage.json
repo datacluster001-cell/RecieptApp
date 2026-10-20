@@ -1,0 +1,207 @@
+[
+  {
+    "id": "20260717-1021-898",
+    "date": "2026-07-17T04:51:01.892Z",
+    "dueDate": "2026-07-21",
+    "customerName": "Unnati Das",
+    "customerPhone": "8600946554",
+    "items": [
+      {
+        "id": 1784263810895,
+        "type": "Saree",
+        "price": "300"
+      },
+      {
+        "id": 1784263850526,
+        "type": "Dress",
+        "price": "400"
+      }
+    ],
+    "subtotal": 700,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 700,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Pending",
+    "notes": "",
+    "archived": false,
+    "issuedBy": "Unnati Das"
+  },
+  {
+    "id": "20260716-2254-112",
+    "date": "2026-07-16T17:24:51.565Z",
+    "dueDate": "2026-07-17",
+    "customerName": "Arup Das",
+    "customerPhone": "9284367091",
+    "items": [
+      {
+        "id": 1784222677599,
+        "type": "Saree",
+        "price": "200"
+      }
+    ],
+    "subtotal": 200,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 200,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Paid",
+    "notes": "",
+    "archived": false,
+    "issuedBy": "Provash Das"
+  },
+  {
+    "id": "20260716-2251-773",
+    "date": "2026-07-16T17:21:56.167Z",
+    "dueDate": "2026-07-23",
+    "customerName": "Arup Das",
+    "customerPhone": "9284367091",
+    "items": [
+      {
+        "id": 1784222363728,
+        "type": "Saree",
+        "price": "100"
+      },
+      {
+        "id": 1784222437477,
+        "type": "Blouse",
+        "price": "200"
+      }
+    ],
+    "subtotal": 300,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 300,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Paid",
+    "notes": "",
+    "archived": false,
+    "issuedBy": "Unnati Das"
+  },
+  {
+    "id": "20260716-2230-713",
+    "date": "2026-07-16T17:00:34.188Z",
+    "dueDate": "2026-07-16",
+    "customerName": "asfd",
+    "customerPhone": "2934923408",
+    "items": [
+      {
+        "id": 1784221210057,
+        "type": "Blouse",
+        "price": "238"
+      }
+    ],
+    "subtotal": 238,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 238,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Paid",
+    "notes": "",
+    "archived": false,
+    "issuedBy": "Unnati Das"
+  },
+  {
+    "id": "20260716-2132-055",
+    "date": "2026-07-16T16:02:03.584Z",
+    "dueDate": "2026-07-17",
+    "customerName": "Pallabi Raha",
+    "customerPhone": "9284367091",
+    "items": [
+      {
+        "id": 1784217708020,
+        "type": "Blouse",
+        "price": "300"
+      }
+    ],
+    "subtotal": 300,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 300,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Pending",
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "20260716-2131-426",
+    "date": "2026-07-16T16:01:28.307Z",
+    "dueDate": "2026-07-19",
+    "customerName": "Neha Kundu",
+    "customerPhone": "9284367091",
+    "items": [
+      {
+        "id": 1784217668208,
+        "type": "Saree",
+        "price": "500"
+      },
+      {
+        "id": 1784217682760,
+        "type": "Shirt",
+        "price": "700"
+      }
+    ],
+    "subtotal": 1200,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 1200,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Paid",
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "20260716-2128-866",
+    "date": "2026-07-16T15:58:58.330Z",
+    "dueDate": "2026-07-19",
+    "customerName": "Sujata Patil",
+    "customerPhone": "9284367091",
+    "items": [
+      {
+        "id": 1784217476030,
+        "type": "Saree",
+        "price": "500"
+      },
+      {
+        "id": 1784217522413,
+        "type": "Blouse",
+        "price": "400"
+      }
+    ],
+    "subtotal": 900,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 900,
+    "paymentMethod": "Cash",
+    "paymentStatus": "Paid",
+    "notes": "",
+    "archived": false
+  },
+  {
+    "id": "20260716-2112-032",
+    "date": "2026-07-16T15:42:00.843Z",
+    "dueDate": "2026-08-01",
+    "customerName": "ankush das",
+    "customerPhone": "9284367091",
+    "items": [
+      {
+        "id": 1784216484778,
+        "type": "Dress",
+        "price": "500"
+      },
+      {
+        "id": 1784216506443,
+        "type": "Pant",
+        "price": "400"
+      }
+    ],
+    "subtotal": 900,
+    "discount": 0,
+    "taxPercent": 0,
+    "total": 900,
+    "paymentMethod": "UPI",
+    "paymentStatus": "Paid",
+    "notes": "Beti ayegi lene ke liye",
+    "archived": true
+  }
+]
